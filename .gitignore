@@ -1,0 +1,11 @@
+# Colab
+.config/
+sample_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp/cache
+__pycache__/
+*.pyc
