@@ -7,7 +7,7 @@
 **Time:** 3 minutes  
 **Best Model:** rank_001 unrelaxed.pdb
 
-![3D Structure](insulin_3D.png)
+![3D Structure](figures/insulin_3D.png)
 
 ### Results
 | File | Description |
